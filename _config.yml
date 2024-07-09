@@ -2,5 +2,5 @@ layout: page
 title: Basar Sohail Chowdhury
 logo: /assets/sohail_irvine.JPG
 description:
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
