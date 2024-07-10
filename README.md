@@ -30,7 +30,7 @@ process. Improved SLA for processing up to 40% using claim automations.
 - Optimizations and performance improvement for scaling the platform around DB and load balancing based on
 the prescription profile.
 - Lead the major client integrations and deliver the SLA on hard deadlines for stakeholders.
-- Technologies: Golang, AngularJS, MongoDB, K8s/Containers, AirFlow, AWS EC2, AWS SNS/SQS   
+- <ins>Technologies: Golang, AngularJS, MongoDB, K8s/Containers, AirFlow, AWS EC2, AWS SNS/SQS<ins>  
 
 #### Verys (SDE / Royal Caribbean Group ) California, USA June 2019 to Dec 2019   
 - As a backend engineer, I contributed to the core system for the flight reservation system to be integrated with
@@ -38,7 +38,7 @@ the cruise booking system. It was a new service to be implemented within the 6 m
 - Implemented the flight search logic using Elasticsearch as primary search engine for real time flights
 - Middleware components for processing of flight booking objects and creating adapters for cruise booking
 system, code cleanup and optimization by reducing/consolidating API calls
-- Technologies: Java, Spring , AWS Services , MYSQL, ReactJS, Solr search, Elasticsearch
+- <ins>Technologies: Java, Spring , AWS Services , MYSQL, ReactJS, Solr search, Elasticsearch<ins>
 
 
 #### Druva (SDE / Data backup and discovery / Unicorn Startup) India, Jan-2017 to Aug-2018
@@ -48,7 +48,7 @@ system, code cleanup and optimization by reducing/consolidating API calls
 improved the compression up to 10x, global dedupe strategy using S3/DynamoDB block hash
 - Cloud services for parsing and syncing with block storage, creating snapshots and performance improvement
 Achievements: Optimization of custom parser, reducing the data parsing job from 4 hrs to 30 mins
-- Technologies: Python/Golang, Kubernetes, DynamoDB, Flask, AWS Cloud Services
+- <ins>Technologies: Python/Golang, Kubernetes, DynamoDB, Flask, AWS Cloud Services<ins>
 
 #### GSLabs (SDE / Chicago mercantile exchange) India, July-2015 to Jan-2017
 - Design and implement microservice at scale for the stream processing of finance data, primarily
@@ -57,11 +57,11 @@ using Java spring boot. Lead the team with initial POC and set up the project wi
 - Talking to clients and stakeholder, managing a team of 5 people and growing the project
 - Created a container based distributed scheduler for automated jobs. Used round robin strategy to
 schedule jobs, automate many manual processes for reporting, Saved hours human effort.
-- Technologies: Java, Spark, Redis, MongoDB, Linux, AWS EMR, EC2, S3, GIT
+- <ins>Technologies: Java, Spark, Redis, MongoDB, Linux, AWS EMR, EC2, S3, GIT<ins>
 
 #### Ubisoft (SDET / Gaming and Entertainment) India, July-2013 to July-2015
 - Ubisoft connect is a platform for gamers. Contributed to the payment system and game store implementation.
 - Improve the player experience for PC, Implement the third party integrations for the online game store
 - Creating custom tools for the dev version of SonyPlayStation (PS4) and contributing to the game logging and
 performance metrics for the game under test.
-- Technologies: Python, Flask, C# .NET, window desktop forms, REST API
+- <ins>Technologies: Python, Flask, C# .NET, window desktop forms, REST API<ins>
