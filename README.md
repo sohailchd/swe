@@ -21,6 +21,15 @@ APIs, Linux, Cloud native solutions, DB optimizations, AWS stack
 
 ### <ins> Work Experience <ins> 
 
+#### Senior Software Engineer (FinTech), PayPal, Inc. - California, USA Oct 2024 to Present 
+- Develop and modernize mission-critical Java backend services powering PayPal's personalization platform, processing 4B+ requests daily with high availability and low latency.  
+- Lead migration of core platform services from on-premises infrastructure to Google Cloud Platform, including migrating customer data for 2B+ users from Oracle to Cloud Bigtable  
+- Build large-scale analytics pipelines using Apache Spark and BigQuery for real-time data processing and platform insights.
+- Develop MCP-based integration frameworks enabling secure agentic AI experiences across PayPal's customer platforms.
+- Lead the major client integrations and deliver the SLA on hard deadlines for stakeholders.
+- <ins>Technologies: Java, Spring Boot, Kafka, Kubernetes, GCP, Cloud Bigtable, Oracle, BigQuery, Apache Spark, Python<ins>  
+
+
 #### Phil, Inc (Senior SDE / Healthcare SAAS) - California, USA Sep 2020 to Present 
 - As a team lead, review and manage the team. Design/review the architecture for new services
 - As a backend engineer implemented core services across all verticals and domains, refactoring old system
